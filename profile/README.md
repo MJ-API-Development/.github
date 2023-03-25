@@ -20,11 +20,11 @@ To get started using our API, you can visit our website at [https://eod-stock-ap
 
 ## Contact Us
 
-We would love to hear from you! If you have any questions about our API or would like to learn more about our development services, please feel free to contact us at [contact@mjapidevelopment.com](mailto:contact@mjapidevelopment.com). You can also follow us on Twitter [@mjapidev](https://twitter.com/mjapidev) for updates and news about our API and development services.
+We would love to hear from you! If you have any questions about our API or would like to learn more about our development services, please feel free to contact us at [support@eod-stock-api.site](mailto:support@eod-stock-api.site). You can also follow us on Twitter [@EodStockAPI](https://twitter.com/EodStockAPI) for updates and news about our API and development services.
 
 ## Contributing
 
-We are always looking for talented developers to join our team and help us build even better APIs. If you are interested in contributing to our projects, please feel free to contact us at [jobs@mjapidevelopment.com](mailto:jobs@mjapidevelopment.com) with your resume and a brief introduction.
+We are always looking for talented developers to join our team and help us build even better APIs. If you are interested in contributing to our projects, please feel free to contact us at [jobs@eod-stock-api.site](mailto:jobs@eod-stock-api.site) with your resume and a brief introduction.
 
 ## License
 
