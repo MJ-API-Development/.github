@@ -18,6 +18,25 @@ Our API is built using modern web technologies and provides a simple and intuiti
 
 To get started using our API, you can visit our website at [https://eod-stock-api.site](https://eod-stock-api.site) or access it directly from [https://bit.ly/eod-stock-api](https://bit.ly/eod-stock-api). Our API documentation is available on our website, along with sample code and tutorials to help you get started.
 
+## Documentations
+
+Documentations can be read from github here 
+<ul>
+    <li>Github : [GITHUB Documentation](https://github.com/MJ-API-Development/Intelligent-EOD-Stock-Financial-News-API)</li>
+    <li>Redoc : [Redoc Documentation](https://gateway.eod-stock-api.site/redoc)</li>
+    
+</ul>   
+
+
+## API Keys 
+
+  you can create your own account here and get your API Key in order to start using our API
+  
+  <ul>
+    <li> Create your Free Account at [Intelligent Stock Market API](https://eod-stock-api.site/login)</li>
+   </ul>
+ 
+
 ## Contact Us
 
 We would love to hear from you! If you have any questions about our API or would like to learn more about our development services, please feel free to contact us at [support@eod-stock-api.site](mailto:support@eod-stock-api.site). You can also follow us on Twitter [@EodStockAPI](https://twitter.com/EodStockAPI) for updates and news about our API and development services.
