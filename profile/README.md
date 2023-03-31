@@ -16,7 +16,19 @@ Our API is built using modern web technologies and provides a simple and intuiti
 
 ## Getting Started
 
+#### Documentations & API Keys
+
 To get started using our API, you can visit our website at [https://eod-stock-api.site](https://eod-stock-api.site) or access it directly from [https://bit.ly/eod-stock-api](https://bit.ly/eod-stock-api). Our API documentation is available on our website, along with sample code and tutorials to help you get started.
+
+If you prefer using our python package for easy access see our [python package documentation here](https://github.com/MJ-API-Development/stock-api-pythonsdk)
+
+
+#### Installation
+
+```python
+   pip install Intelligent-Stock-Market-API   
+```
+
 
 ## Documentations
 
