@@ -35,7 +35,9 @@ If you prefer using our python package for easy access see our [python package d
 Documentations can be read from github here 
 <ul>
     <li>Github : [GITHUB Documentation](https://github.com/MJ-API-Development/Intelligent-EOD-Stock-Financial-News-API)</li>
-    <li>Redoc : [Redoc Documentation](https://gateway.eod-stock-api.site/redoc)</li>
+    <li>EOD STOCK API - : [Redoc Documentation](https://eod-stock-api.site/redoc)</li>
+    <li>Developers Blog : [EOD Stock API Developers](https://eod-stock-api.site/blog)
+    <li>PyPI SDK : [Intelligent Stock Market API](https://pypi.org/project/Intelligent-Stock-Market-API/)
     
 </ul>   
 
