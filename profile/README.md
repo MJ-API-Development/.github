@@ -46,9 +46,10 @@ Documentations can be read from github here
 
   you can create your own account here and get your API Key in order to start using our API
   
-  <ul>
-    <li> Create your Free Account at [Intelligent Stock Market API](https://eod-stock-api.site/login)</li>
-   </ul>
+
+- Create your Free Account at [Intelligent Stock Market API](https://eod-stock-api.site/login)
+- [Subscribe to our Basic Plan and start using our API with a free 1 Month Trial](https://eod-stock-api.site/plan-descriptions/basic)
+
  
 
 ## Contact Us
