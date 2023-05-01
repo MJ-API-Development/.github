@@ -56,6 +56,12 @@ Documentations can be read from github here
 
 We would love to hear from you! If you have any questions about our API or would like to learn more about our development services, please feel free to contact us at [support@eod-stock-api.site](mailto:support@eod-stock-api.site). You can also follow us on Twitter [@EodStockAPI](https://twitter.com/EodStockAPI) for updates and news about our API and development services.
 
+## Community
+
+- [Slack Channel](https://join.slack.com/t/eod-stock-apisite/shared_invite/zt-1uelcf229-c_6QAgWFNyVfXKZr1hYYoQ)
+- [StackOverflow](https://stackoverflowteams.com/c/eod-stock-market-api)
+- [Quora](https://eodstockmarketapi.quora.com/)
+
 ## Contributing
 
 We are always looking for talented developers to join our team and help us build even better APIs. If you are interested in contributing to our projects, please feel free to contact us at [jobs@eod-stock-api.site](mailto:jobs@eod-stock-api.site) with your resume and a brief introduction.
